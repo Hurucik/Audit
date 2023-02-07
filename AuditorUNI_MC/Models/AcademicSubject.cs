@@ -3,6 +3,7 @@
     class AcademicSubject
     {
         public string Name { get; set; }
+        public Professor Professor { get; set; }
     }
 
 
